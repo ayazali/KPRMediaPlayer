@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Kpr_mediaplayerActivity!</string>
+    <string name="app_name">Android Project - Mp3 Player</string>
+    <string name="play_str">PLAY</string>
+    <string name="pause_str">PAUSE</string>
+    <color name="bgcolor">#b6cfa2</color>
+    <color name="black">#000000</color>
+    
+
+</resources>
